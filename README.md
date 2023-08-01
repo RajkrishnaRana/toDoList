@@ -1,5 +1,7 @@
 # To Do list
-This is a simple to do list app. It uses mongoDB as database
+This is a simple to do list app with create and delete functionality. It also has template features available.
+
+# Tech used : EJS, ExpressJS, NodeJS, CSS, HTML, MongoDB
 
 To Run this application in your machine you have to follow the steps below :
 # Step : 1 -
